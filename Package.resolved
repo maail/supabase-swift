@@ -23,9 +23,9 @@
         "package": "GoTrue",
         "repositoryURL": "https://github.com/supabase-community/gotrue-swift",
         "state": {
-          "branch": null,
-          "revision": "32719c3487d144a0fd76b9cd7bc5606c1fc720b7",
-          "version": "0.0.9"
+          "branch": "feat/oidc",
+          "revision": "db839688687ce47cfe39ed61cf7ed705aaeab53e",
+          "version": null
         }
       },
       {
