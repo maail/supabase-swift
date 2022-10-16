@@ -23,9 +23,18 @@
         "package": "GoTrue",
         "repositoryURL": "https://github.com/supabase-community/gotrue-swift",
         "state": {
+          "branch": "feat/setSession",
+          "revision": "3311768e2cd4ef7b326ba65c079a17e64faa7d87",
+          "version": null
+        }
+      },
+      {
+        "package": "JWTDecode",
+        "repositoryURL": "https://github.com/auth0/JWTDecode.swift",
+        "state": {
           "branch": null,
-          "revision": "32719c3487d144a0fd76b9cd7bc5606c1fc720b7",
-          "version": "0.0.9"
+          "revision": "d07041068fed2d4b8a38f2b321ea6d97c9152c4a",
+          "version": "3.0.0"
         }
       },
       {
